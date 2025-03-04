@@ -1,7 +1,7 @@
 # revisiting_alfred
-This repository presents refined commands for [ALFRED](https://askforalfred.com/) expert demonstrations for valid seen and valid unseen tasks. Refer to the following paper for detailed descriptions of the refinement.
+This repository contains the results for our paper titled "Revisiting ALFRED: Refining commands for evaluating language-guided task planning([pdf](https://aair-lab.github.io/genplan25/papers/17.pdf))", which has been accepted for the GenPlan 2025 Workshop at AAAI 2025. For more details, please visit [the workshop webpage](https://aair-lab.github.io/genplan25/).
 
-## Revisiting ALFRED: Refining commands for evaluating language-guided task planning **(accepted at GenPlan 2025 Workshop colocated with AAAI'25)**
+## Abstract
 
 Language-guided task planning has seen significant advances with the emergence of large language models (LLMs). This paper presents a refinement of the ALFRED benchmark, a widely-used dataset for evaluating embodied AI in household environments. We identify and categorize errors in the original crowd-sourced commands and propose refined commands that maintain alignment with expert demonstrations. We further augment these commands through paraphrasing, contextualization, and cross-lingual translation to create a more comprehensive evaluation suite. Our experimental results across multiple LLM-based planners demonstrate that while state-of-the-art models achieve high success rates on base commands, performance degrades with increased linguistic complexity. The refined benchmark provides a more reliable foundation for evaluating language-guided planning systems while introducing controlled challenges through linguistic variations. Refined command sets are available at https://github.com/zebehn/revisiting_alfred.
 

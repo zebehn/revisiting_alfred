@@ -9,9 +9,9 @@ Language-guided task planning has seen significant advances with the emergence o
 ![Poster](./Poster_minsujang@GenPlan2025.jpg)
 
 ## Files
-* Refined command for valid_seen tasks: [refined_valid_seen_commands.json](refined_valid_seen_commands.json)
+* Refined commands for valid_seen tasks: [refined_valid_seen_commands.json](refined_valid_seen_commands.json)
   * You can browse the commands in [refined_valid_seen_commands.md](refined_valid_seen_commands.md)
-* Refined command for valid_unseen tasks: [refined_valid_seen_commands.json](refined_valid_seen_commands.json)
+* Refined commands for valid_unseen tasks: [refined_valid_seen_commands.json](refined_valid_seen_commands.json)
   * You can browse the commands in [refined_valid_unseen_commands.md](refined_valid_unseen_commands.md)
  
 ## Acknowledgement

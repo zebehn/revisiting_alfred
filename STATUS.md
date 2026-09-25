@@ -1,6 +1,7 @@
 ---
 project: revisiting_alfred
 purpose: ALFRED 검증 데이터의 크라우드소싱 명령어 오류를 분류·정제한 명령어 세트를 공개하고 GenPlan 2025 워크숍 논문 결과를 보관한다
+owner: [미확인]
 status: 종료
 stage: 논문이 AAAI 2025 GenPlan 워크숍에 채택됐고 정제 명령어 세트와 포스터를 공개한 뒤 추가 작업 없이 사용자 결정으로 종료했다 (기준일 2025-03-04, 종료 지정 2026-09-25)
 updated: 2026-09-25
@@ -19,7 +20,7 @@ docs:
 
 # Revisiting ALFRED 현황
 
-> 기재 정책: zebehn/mastermind docs/STATUS_POLICY.md (v1.0). 최종 갱신 2026-09-25 (KST).
+> 기재 정책: zebehn/mastermind docs/STATUS_POLICY.md (v1.1). 주 담당 [미확인]. 최종 갱신 2026-09-25 (KST).
 
 ## 요약
 
